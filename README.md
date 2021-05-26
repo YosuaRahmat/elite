@@ -14,7 +14,6 @@ $ pip2 install bs4
 $ pip2 install requests  
 $ pip2 install mechanize  
 $ git clone https://github.com/YosuaRahmat/elite
-## ✯⇨𝙍𝙪𝙣 𝙎𝙘𝙧𝙞𝙥𝙩⇦✯
 $ cd elite  
 $ python2 elite
 ## ✯⇨𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚⇦✯
